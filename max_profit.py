@@ -6,4 +6,4 @@ def maxProfit_bruteforce (prices):
            max_price = max(prices[j] - price, max_price)
 
    return
-
+print("anything")
